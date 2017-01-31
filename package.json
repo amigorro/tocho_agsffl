@@ -1,0 +1,26 @@
+{
+  "name": "tocho",
+  "version": "2.0.0",
+  "description": "Estadisticas de la liga de tocho en aguascalientes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amigorro/tocho_agsffl.git"
+  },
+  "author": "CROCODIGUS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amigorro/tocho_agsffl/issues"
+  },
+  "homepage": "https://github.com/amigorro/tocho_agsffl#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-stylus": "^2.6.0",
+    "gulp-webserver": "^0.9.1",
+    "nib": "^1.1.2"
+  }
+}
